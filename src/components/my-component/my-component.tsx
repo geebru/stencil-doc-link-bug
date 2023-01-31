@@ -4,6 +4,9 @@ import { format } from '../../utils/utils';
 /**
  * This is a JSDoc block comment.
  * {@link https://www.google.com/|Google your problems}
+ *
+ * @export
+ * @class MyComponent
  */
 @Component({
   tag: 'my-component',

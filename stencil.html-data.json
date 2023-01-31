@@ -1,0 +1,26 @@
+{
+  "version": 1.1,
+  "tags": [
+    {
+      "name": "my-component",
+      "description": {
+        "kind": "markdown",
+        "value": "This is a JSDoc block comment.\n{@link https://www.google.com/|Google your problems}"
+      },
+      "attributes": [
+        {
+          "name": "first",
+          "description": "The first name"
+        },
+        {
+          "name": "last",
+          "description": "The last name"
+        },
+        {
+          "name": "middle",
+          "description": "The middle name"
+        }
+      ]
+    }
+  ]
+}
